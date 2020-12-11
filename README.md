@@ -19,7 +19,7 @@
 ![L4](preonic-rev3/img/Layer4.png)
 
 
-### Change Log
+## Change Log
 
 **v1.1**
 Minor updates to special chars and numbers layers
